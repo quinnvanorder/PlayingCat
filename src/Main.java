@@ -8,6 +8,6 @@ Write a method isCatPlaying that has 2 parameters. Method needs to return true i
  */
 public class Main {
     public static void main(String[] args) {
-
+        System.out.println(PlayingCat.isCatPlaying(false,35));
     }
 }
